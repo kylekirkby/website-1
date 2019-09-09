@@ -40,7 +40,7 @@ flow:
                       style: btn-primary
               - title:
                     size: h3
-                    text: LCR
+                    text: LAVA
                 text_content:
                     text: >
                         The Linaro Automated Validation Architecture (LAVA) is a test and continuous integration framework that Linaro uses to validate its releases. The source is open so that members and others can create their own instantiations and run proprietary tests within this standard framework. Click here for the latest downloads.
