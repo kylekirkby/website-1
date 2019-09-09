@@ -32,7 +32,7 @@ jumbotron:
               - title: Learn more
                 url: /news/linaro-announces-launch-of-96boards-system-on-module-som-specification/
 flow:
-    - row: custom_include_rows
+    - row: custom_include_row
       source: home/collaborative-engineering.html
     - row: custom_include_row
       source: home/developer-services.html
