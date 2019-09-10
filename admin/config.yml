@@ -774,7 +774,7 @@ collections:
             required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
  # Posts Config
-  - name: 'blog'
+  - name: 'news'
     label: 'News Posts'
     folder: '_posts/2019/news'
     create: true
