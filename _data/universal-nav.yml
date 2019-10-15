@@ -16,3 +16,6 @@ items:
         url: https://www.op-tee.org
       - title: DeviceTree.org
         url: https://www.devicetree.org
+      - title: OpenAMP
+	url: https://www.openampproject.org
+
