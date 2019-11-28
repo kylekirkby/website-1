@@ -28,11 +28,11 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: "Name", name: "name", widget: string, hint: "Name of the team member", required: false}
-              - {label: "Title", name: "title", widget: string, hint: "Title showed beneath their name i.e Texas Instruments / VP of Engineering at Linaro etc", required: false}
-              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member", required: false}
-              - {label: "Member Type", name: "type", widget: select, hint: "Member type i.e committee, guest etc.", options: ['guest', 'committee'], required: false}
-              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member", required: false}
+              - {label: "Name", name: "name", widget: string, hint: "Name of the team member"}
+              - {label: "Title", name: "title", widget: string, hint: "Title showed beneath their name i.e Texas Instruments / VP of Engineering at Linaro etc"}
+              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member"}
+              - {label: "Member Type", name: "type", widget: select, hint: "Member type i.e committee, guest etc.", options: ['guest', 'committee']}
+              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member"}
       - label: "The Executive Team"
         name: "executive_team"
         file: "_data/executive_team.yml"
@@ -41,10 +41,10 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: "Name", name: "name", widget: string, hint: "Name of the team member", required: false}
-              - {label: "Title", name: "title", widget: string, hint: "Title showed beneath their name i.e Chief Operating Officer etc", required: false}
-              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member", required: false}
-              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member", required: false}
+              - {label: "Name", name: "name", widget: string, hint: "Name of the team member"}
+              - {label: "Title", name: "title", widget: string, hint: "Title showed beneath their name i.e Chief Operating Officer etc"}
+              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member"}
+              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member"}
       - label: "The Board of Directors"
         name: "board_of_directors"
         file: "_data/board_of_directors.yml"
@@ -53,10 +53,10 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: "Name", name: "name", widget: string, hint: "Name of the team member", required: false}
-              - {label: "Title", name: "title", widget: string, hint: "Title of their position i.e Board Member for Arm and Interim Chairman", required: false}
-              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member", required: false}
-              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member", required: false}
+              - {label: "Name", name: "name", widget: string, hint: "Name of the team member"}
+              - {label: "Title", name: "title", widget: string, hint: "Title of their position i.e Board Member for Arm and Interim Chairman"}
+              - {label: "Profile Image", name: "image", widget: image, hint: "Image of the board member"}
+              - {label: "Member Bio", name: "bio", widget: text, hint: "Short bio for the member"}
       - label: "External News"
         name: "external_news_items"
         file: "_data/external_news.yml"
