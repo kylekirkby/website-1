@@ -1,10 +1,11 @@
 source "https://rubygems.org"
 # Jekyll Theme
-gem 'jumbo-jekyll-theme', "5.6.7"
+gem 'jumbo-jekyll-theme', "5.6.9"
 # Jekyll Plugins
 group :jekyll_plugins do
    gem "jekyll-data"
    gem "nokogiri"
+   gem "jekyll-sitemap"
 end
 # # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
