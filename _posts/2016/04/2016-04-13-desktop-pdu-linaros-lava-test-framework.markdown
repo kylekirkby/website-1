@@ -10,7 +10,7 @@ categories:
 - blog
 ---
 
-{% include media.html media_url="https://www.youtube.com/watch?v=ScPxjLY5h3I"%}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=ScPxjLY5h3I"%}
 
 In the run up to the last Linaro Connect, I put together a small system to illustrate Linaro's open source LAVA test deployment tool. LAVA is the Linaro Automated Validation Architecture, an automation system for deploying kernel, dtb and rootfs onto physical and virtual hardware for running tests. This video shows an example of LAVA deploying kernel builds from a laptop on to two targets - one a 32-bit Beaglebone and one 64-bit 96Boards Hikey. It then confirms that the images boot correctly.
 

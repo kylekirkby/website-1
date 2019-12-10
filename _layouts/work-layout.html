@@ -193,7 +193,7 @@ css-package: work
 <div class="col-md-9 group_content_section">
     {% if page.featured_video %}
     <div class="work_featured_video">
-      {% include media.html media_url=page.featured_video %}
+      {% include components/media.html media_url=page.featured_video %}
     </div>
     {% endif %}
     {{ content }}
@@ -201,7 +201,7 @@ css-package: work
       <div class="col-xs-12 group_playlist">
       <hr />
       {% assign playlist_embed_link = page.youtube_playlist | replace: 'https://www.youtube.com/playlist?list=','https://www.youtube.com/embed/videoseries?list='%}
-      {% include media.html media_url=playlist_embed_link %}
+      {% include components/media.html media_url=playlist_embed_link %}
       </div>
     {% endif %}
     <div class="col-xs-12 contact_form">

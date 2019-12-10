@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # Destination of the Jekyll site upon build of site.
 destination: _site
 # Include the Linaro Jekyll Theme
-theme: jumbo-jekyll-theme
+theme: linaro_simply_static_theme
 # Permalink for the blog posts of the Jekyll website.
 permalink: /:categories/:title/
 # Jekyll Responsive Images dir
@@ -192,16 +192,15 @@ defaults:
     values:
       redirect_from: /sitemap/
 # Gems that should be included in the Jekyll builld of this site.
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-readme-index
-  - uglifier
-  - jekyll-assets
-  - jekyll-tidy
-  - jekyll-redirect-from
-  - autoprefixer-rails
-  - jekyll-paginate-v2
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-readme-index
+#   - uglifier
+#   - jekyll-assets
+#   - jekyll-tidy
+#   - jekyll-redirect-from
+#   - autoprefixer-rails
+#   - jekyll-paginate-v2
 # Compress the html and beau2tify it.
 jekyll_tidy: # Compress the html and beautify it.
   compress_html: true
@@ -222,6 +221,8 @@ assets:
     - assets/images/content
     - assets/images/blog
     - assets/css/
+
+theme_path: /home/kyle/.rvm/gems/ruby-2.5.2/gems/linaro_simply_static_theme-0.1.0/
 
 # Sass configuration - compressed and sass_dir of the root Jekyll assets folder.
 sass:

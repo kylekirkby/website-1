@@ -59,10 +59,8 @@ The 2.9 release sees a number of fixes to the Cortex-M series emulation as we ra
 
 This summary is not intended to be exhaustive and has concentrated on Arm specific features. For example we have not covered updates to the common sub-systems shared by all architectures. For those interested in all the details, the [full changelog](http://wiki.qemu.org/ChangeLog/2.9) is worth a read.
 
-{% include media.html media_url="https://youtu.be/4MKXWM0koGw" %}
+{% include components/media.html media_url="https://youtu.be/4MKXWM0koGw" %}
 
 * * *
 
-{% include media.html media_url="//www.slideshare.net/slideshow/embed_code/key/vAVCMSPoB3KzS7" %}
-
-
+{% include components/media.html media_url="//www.slideshare.net/slideshow/embed_code/key/vAVCMSPoB3KzS7" %}

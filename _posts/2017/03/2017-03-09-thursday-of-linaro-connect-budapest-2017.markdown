@@ -33,7 +33,7 @@ permalink: /blog/:title/
 
 Thursday of Linaro Connect Budapest 2017 (BUD17) began with a keynote by Max Wang, a software engineer working on HHVM at Facebook, who gave a keynote titled:  HHVM on AArch64.  His keynote talked about what HHVM is,  a high-performance, open source PHP execution engine developed at Facebook. He discussed how it is the fastest PHP runtime in the world, with support for PHP5, PHP7, and Hack—the programming language used for Facebook’s web server application logic.  He explained that HHVM uses just-in-time compilation to transform PHP and Hack source code into optimized machine code and due to the contributions from developers across the ARM community, HHVM can now target AArch64 in addition to x86-64 and successfully runs open source PHP frameworks like WordPress.  Max then gave a quick demo, and talked about where optimization efforts can go from here.  To watch his keynote on YouTube please go to:  [https://www.youtube.com/watch?v=aJ3KKyKeZUc](https://www.youtube.com/watch?v=aJ3KKyKeZUc)
 
-{% include media.html media_url="https://www.youtube.com/watch?v=aJ3KKyKeZUc" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=aJ3KKyKeZUc" %}
 
 Thursday's themes were LHG and Digital Home. Below is a list of the sessions that took place on Tuesday.  Many have the supporting presentations and videos, however keep checking back to the [BUD17 resources page ](/resources/)as we will continue to update it throughout the week as more items become available.
 

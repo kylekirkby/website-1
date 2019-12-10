@@ -208,7 +208,7 @@ To ensure commercial quality software, Linaro’s work includes comprehensive te
 
 * * *
 
-{% include media.html media_url="https://www.youtube.com/watch?v=-6AVlw4VwRQ" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=-6AVlw4VwRQ" %}
 
 Buy Now
   * [Amazon](http://linaro.co/hikey960buy-amazon) (USA) – $239.99 & FREE Shipping

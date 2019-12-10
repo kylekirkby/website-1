@@ -27,7 +27,7 @@ The Linaro Connect Las Vegas 2016 (LAS16) was one of the largest Connect events 
 
 The week of sessions included many different tracks that attendees could attend, with each day focused on a particular segment within Linaro. Along with all the sessions and hacking there was also the traditional demo Friday that was held to showcase all the hard work that was done by the various teams over the last several months. Attendees were able to enjoy lunch while wandering the exhibit hall full of demos by both Linaro and it's member companies.
 
-{% include media.html media_url="https://www.youtube.com/watch?v=fuAebQvFnRI" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=fuAebQvFnRI" %}
 
 The last day of Linaro Connect gave attendees an opportunity to listen to two Linux pioneers, David Rusling (Linaro) and Linus Torvalds (Linux Foundation) chat about the past, present and future of Linux and the Open Source community. They also answered questions that were submitted by the attendees earlier in the week.
 

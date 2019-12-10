@@ -24,11 +24,11 @@ Linaro Connect San Francisco 2015 began with another exciting day of announcemen
 
 Following the announcements, the morning keynotes began with Neil Trevett, Vice President of Mobile Ecosystems at NVIDIA and President of the Khronos Group, of who gave a talk on "[Open Standards and Open Source Together - How Khronos APIs Accelerate Fast and Cool Applications](https://youtu.be/S3YMBLOTXSI?t=12m39s)".  The talk covered how over 100 companies cooperate with the Khronos Group to create open, royalty free API standards to access hardware acceleration for heterogeneous parallel computation, 3D graphics and vision processing.
 
-{% include media.html media_url="https://youtu.be/S3YMBLOTXSI?t=12m39s" %}
+{% include components/media.html media_url="https://youtu.be/S3YMBLOTXSI?t=12m39s" %}
 
 He talked about the latest updates to API standards including OpenGL, OpenCL, OpenVX, and the recently announced Vulkan new generation graphics and compute API. Neil also discussed how cutting-edge APIs enable compelling experiences such as neural-net based driver assistance, virtual and augmented reality, and advanced 3D scene reconstruction on Arm-based devices, and showed a video demo of this. Finally, he talked about how Khronos is embracing and promoting multiple open source projects to boost the Arm developer ecosystem.
 
-{% include media.html media_url="https://www.youtube.com/watch?v=14YnkW6ZsI0" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=14YnkW6ZsI0" %}
 
 The second keynote of the day was given by John Simmons, Media Platform Architect for Microsoft's Operating System Group.  John's talk was titled "[The Web and Digital Rights Management – the technical solution to the Web-DRM paradox and its disruptive implications](https://www.youtube.com/watch?v=14YnkW6ZsI0)"  His talk overview was: "The Internet poses a fascinating technical challenge for commercial media distribution. As noted in a 2003 United Nations
 

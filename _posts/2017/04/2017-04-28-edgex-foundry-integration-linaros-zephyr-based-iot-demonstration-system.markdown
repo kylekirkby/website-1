@@ -27,18 +27,18 @@ The goal of EdgeX is to "Build a flexible, platform-independent, highly-scalable
 In an earlier demonstration of the Linaro end-to-end IoT demo at Linaro Connect Budapest in March[1], we connected 96Board Nitrogens, running Zephyr, to a 96Board Hikey-based IoT gateway, supported by the open source Hawkbit device management platform while sending data to IBM’s Bluemix IoT platform.  In the EdgeX Demo for Hannover Messe, thermal data from the Nitrogens is being sent through the Hikey to the EdgeX Platform via MQTT.  With EdgeX Foundry and the Linaro end-to-end IoT demo systems both being standards-based and leveraging containerized microservices, it was fairly straightforward to integrate the two systems and produce the Messe demo. In the end, no engineers were harmed in the making of the demo and most of the integration was achieved by simply creating a new MQTT service to route the data.  Based on our short experience with the EdgeX project, we are excited to see it evolve as a community project.
 
 
-{% include media.html media_url="https://youtu.be/8prRg5vkSHY" %}
+{% include components/media.html media_url="https://youtu.be/8prRg5vkSHY" %}
 
 
 [1] BUD -17 Keynote Demonstration, Demo overview ~ 44 minutes, [https://connect.linaro.org/resources/bud17/bud17-100k1/](https://connect.linaro.org/resources/bud17/bud17-100k1/)
 
 * * *
 
-{% include media.html media_url="https://youtu.be/BUikAFy21ZI" %}
+{% include components/media.html media_url="https://youtu.be/BUikAFy21ZI" %}
 
 * * *
 
-{% include media.html media_url="//www.slideshare.net/slideshow/embed_code/key/k5hZdXOOQFjYSi" %}
+{% include components/media.html media_url="//www.slideshare.net/slideshow/embed_code/key/k5hZdXOOQFjYSi" %}
 
 * * *
 
@@ -50,5 +50,3 @@ The End-to-end IoT Demonstration system.
   * 9 96Boards Nitrogens running as Zephyr-based thermal sensors
   * 1 HiKey BLE/6LoWPAN gateway
   * 1 Dell 5100 Industrial IoT gateway running EdgeX Foundry integrating the Zephry MQTT datastream with EdgeX
-
-

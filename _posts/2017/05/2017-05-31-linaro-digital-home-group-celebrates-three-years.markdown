@@ -45,7 +45,7 @@ The OP-TEE integration with W3C EME DRMs is one of the prominent features of the
 
 LHG has been working with Linux-based multimedia on Arm since inception and that effort is reflected in the [Linux Multimedia on Arm](https://collaborate.linaro.org/display/EP/Linux+Multimedia+on+Arm) Lead Project. In this Lead Project, LHG continues to evolve the OpenSDK and OP-TEE/DRM integrations on Linux-based set-top solutions, and provide innovation in the RDK. The latest implementation of the LHG OpenEmbedded builds can be found [here](https://github.com/linaro-home/lhg-oe-manifests).
 
-{% include media.html media_url="https://www.youtube.com/watch?v=zmOTyKFeyCs" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=zmOTyKFeyCs" %}
 
 _Demo from Linaro Connect Budapest 2017 of Linaro RDK running on the DragonBoard410C_
 
@@ -54,7 +54,7 @@ _Demo from Linaro Connect Budapest 2017 of Linaro RDK running on the DragonBoard
 In the last half of 2016, LHG formally started working with Android Open Source Project (AOSP) TV. This activity has lead to the creation of the [AOSP TV](https://collaborate.linaro.org/display/EP/AOSP+TV) Lead Project in LHG. The AOSP TV Lead Project has the mandate to integrate, develop, distribute and maintain AOSP based on the TV form factor as the basis for Android TV work by our members. LHG recently completed a Widevine DRM Level 1 playback on Android N with OP-TEE v2.4.0 with secure media buffers.
 
 
-{% include media.html media_url="https://www.youtube.com/watch?v=lkAERtIry4w" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=lkAERtIry4w" %}
 
 _Demo from Linaro Connect Budapest 2017 of Linaro Android AOSP TV_
 
@@ -97,7 +97,7 @@ For more information on LHG, click [here.](/engineering/)
   * Published 96Boards TV Platform specification in Jan 2016
   * Release of first TV Platform Board by HiSilicon - Poplar
   * Sample AOSP TV build for HiKey 96Boards platform
-  * AOSP build with OP-TEE Secure Data Path extensions on HiKey 
+  * AOSP build with OP-TEE Secure Data Path extensions on HiKey
   * Upstream OP-TEE to AOSP HiKey branch
 
 **LHG Making News!**
@@ -114,6 +114,3 @@ For more information on LHG, click [here.](/engineering/)
   * [LHG One-Year Anniversary](/blog/lhg-one-year-anniversary/)
   * [LHG at the 2015 RDK Users Conference](/blog/linaro-2015-rdk-users-conference/)
   * [Linaro Home Group Update](/blog/linaro-home-group-update-since-launching/)
-
-
-

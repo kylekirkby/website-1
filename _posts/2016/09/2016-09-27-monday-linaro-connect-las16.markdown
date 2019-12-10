@@ -20,7 +20,7 @@ George then wrapped up this keynote by announcing Linaro’s newest segment grou
 
 * * *
 
-{% include media.html media_url="https://www.youtube.com/watch?v=BnQZiXpN3cQ" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=BnQZiXpN3cQ" %}
 
 * * *
 
@@ -28,7 +28,7 @@ LITE will also leverage Linaro’s work on security and trusted execution enviro
 
 * * *
 
-{% include media.html media_url="https://www.youtube.com/watch?v=MCLFp55y0dc" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=MCLFp55y0dc" %}
 
 * * *
 [Watch Keynote](https://www.youtube.com/watch?v=MCLFp55y0dc)

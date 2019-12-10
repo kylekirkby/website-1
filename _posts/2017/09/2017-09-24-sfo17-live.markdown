@@ -27,7 +27,7 @@ permalink: /blog/:title/
 
 Attracting 400+ attendees, [Linaro Connect](/) is a bi-annual event which brings together engineers and industry experts to discuss, learn, network and push forward new technologies for five days in some of the most interesting cities around the world. For the past five years, Linaro Connect has been the event to attend if you are interested in Linux development and related ecosystems on ARM. While the event continues to evolve, one thing stays the same – it is all about Engineering.
 
-{% include media.html media_url="https://youtu.be/4Iw50ZApbsI" %}
+{% include components/media.html media_url="https://youtu.be/4Iw50ZApbsI" %}
 
 The upcoming Linaro Connect will take place at the **Hyatt Regency San Francisco Airport** in Burlingame, CA starting Monday 25 September 2017 and finish Friday 29 September 2017.
 
@@ -35,7 +35,7 @@ Keynotes will be live streamed on [YouTube](http://linaro.co/youtube) (Subscribe
 * Click on the videos below and to reminder
 
 
-{% include media.html media_url="https://www.youtube.com/watch?v=oDruIOdG0YM" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=oDruIOdG0YM" %}
 
 
 Monday 25 September - 08:45 - 09:45 PDT
@@ -46,7 +46,7 @@ Monday 25 September - 08:45 - 09:45 PDT
 * * *
 
 
-{% include media.html media_url="https://youtu.be/cTCIkpRpuA0" %}
+{% include components/media.html media_url="https://youtu.be/cTCIkpRpuA0" %}
 
 
 Tuesday 26 September - 8:45 am - 9:45 am PDT
@@ -58,7 +58,7 @@ Tuesday 26 September - 8:45 am - 9:45 am PDT
 * * *
 
 
-{% include media.html media_url="https://youtu.be/RT_iwqbYcR0" %}
+{% include components/media.html media_url="https://youtu.be/RT_iwqbYcR0" %}
 
 
 Wednesday 27 September - 08:30 - 09:55 PDT
@@ -71,7 +71,7 @@ Open Source License Enforcement: to sue or not to sue - Heather Meeker: software
 
 
 
-{% include media.html media_url="https://youtu.be/_BLHJBkSsfI" %}
+{% include components/media.html media_url="https://youtu.be/_BLHJBkSsfI" %}
 
 
 Thursday 28 September - 08:45 - 09:45
@@ -86,7 +86,7 @@ Thursday 28 September - 08:45 - 09:45
 
 
 
-{% include media.html media_url="https://youtu.be/JJhwAWXSXVQ" %}
+{% include components/media.html media_url="https://youtu.be/JJhwAWXSXVQ" %}
 
 
 **Arm Data Centre Day**
@@ -106,7 +106,7 @@ Participate in the ultimate community-driven experience. Bring your coffee and q
 * * *
 
 
-{% include media.html media_url="https://youtu.be/dZjPwSNc5A0" %}
+{% include components/media.html media_url="https://youtu.be/dZjPwSNc5A0" %}
 
 
 **Swarms 2.0 – The Living Network of Everyone and Everything** - Jan M. Rabaey

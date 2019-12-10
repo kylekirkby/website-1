@@ -25,7 +25,7 @@ Day 3 of Linaro Connect San Francisco 2015 was a day dedicated to Arm Server Ec
 
 The first keynote speaker of the day was Dr. Suresh Gopalakrishnan who is the corporate vice president and general manager of AMD’s server business. Dr. Gopalakrishnan gave a keynote titled ["Enabling Arm Server for the Datacenter"](https://youtu.be/apMkjg8tubw?t=9m47s). He discussed how the key to enabling Arm server technology in the datacenter is all about the software. He then went on to talk about each of the different areas that need to be addressed.
 
-{% include media.html media_url="https://youtu.be/apMkjg8tubw?t=9m47s" %}
+{% include components/media.html media_url="https://youtu.be/apMkjg8tubw?t=9m47s" %}
 
 The second keynote of the day was given by Tiger Hu, architect of Alibaba Infrastructure Service. The title of the keynote was "Cloud Computing Infrastructure of the DT Era".
 

@@ -29,11 +29,11 @@ To illustrate the difference between the start of LAVA and the present day, here
 
 * * *
 
-{% include media.html media_url="https://youtu.be/4tLKBXqMj5s" %}
+{% include components/media.html media_url="https://youtu.be/4tLKBXqMj5s" %}
 
 * * *
 
-{% include media.html media_url="https://youtu.be/4e_2K2BdL_4" %}
+{% include components/media.html media_url="https://youtu.be/4e_2K2BdL_4" %}
 
 * * *
 

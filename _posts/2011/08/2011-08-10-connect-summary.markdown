@@ -54,8 +54,8 @@ See the below video for details!
 
 After this, a Questions and Answers session opened between Linaro engineers and Linaro's management, mainly about Linaro's strategy for the next months and years.
 
-{% include media.html media_url="http://www.youtube.com/embed/keIQ-_OG2KQ" %}
+{% include components/media.html media_url="http://www.youtube.com/embed/keIQ-_OG2KQ" %}
 
 Stephen Doel, Linaro's Chief Operating Officer, closes the event by giving interesting statistics, and by thanking those who contributed to it. Stephen also made announcements for the next Linaro Connect events. Watch to video to have details!
 
-{% include media.html media_url="http://www.youtube.com/embed/wvdfWyvSRcI" %}
+{% include components/media.html media_url="http://www.youtube.com/embed/wvdfWyvSRcI" %}

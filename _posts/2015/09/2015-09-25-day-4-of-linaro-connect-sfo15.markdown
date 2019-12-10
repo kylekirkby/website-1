@@ -27,7 +27,7 @@ Linaro Connect San Francisco 2015 day four was another packed day of keynotes an
 
 Both of the morning keynotes were centered around networking.  First up wa Dave Neary who works on SDN and NFV community strategy as a member of Red Hat’s Open Source and Standards team and is active in OPNFV. Dave's talk was titled "An NFV Primer: The Next Generation for Telco". He spoke about changes in the Telco industry and how the industry is more competitive than ever. He then went on to talk about the promise of NFV.
 
-{% include media.html media_url="https://www.youtube.com/watch?v=HPooPahP5Co" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=HPooPahP5Co" %}
 
 The second keynote of the day was given by Roger Casals from Symantec, who gave a talk titled "Security and Trust in a Mobile World" touching on both the theme for the day of networking and the Connect overarching theme of Security.
 

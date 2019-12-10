@@ -23,11 +23,11 @@ Linaro Connect LAS16 continued on Tuesday with another great keynote by guest sp
 
 * * *
 
-{% include media.html media_url="https://www.youtube.com/watch?v=_17lUCd8ol0" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=_17lUCd8ol0" %}
 
 * * *
 
-{% include media.html media_url="https://www.youtube.com/watch?v=97VfcbTi05c" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=97VfcbTi05c" %}
 
 * * *
 
@@ -39,4 +39,3 @@ Tuesday was also the first day of a series of mini-conferences happening the wee
 
 
 Check out the [Linaro Connect resources page](https://connect.linaro.org/las16/resources/) to view the presentations and sessions that took place.
-

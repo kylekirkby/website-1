@@ -10,7 +10,7 @@ slug: watch-announcement-linaro-computex
 title: Watch the announcement of Linaro at Computex
 ---
 
-{% include media.html media_url="https://www.youtube.com/watch?v=sqL-vGR2puk" %}
+{% include components/media.html media_url="https://www.youtube.com/watch?v=sqL-vGR2puk" %}
 
 CAMBRIDGE, UK - 2 JUN 2010
 

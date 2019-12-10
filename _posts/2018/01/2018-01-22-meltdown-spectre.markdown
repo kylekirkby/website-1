@@ -27,7 +27,7 @@ layout: post
 By now everyone has heard about [Meltdown](https://meltdownattack.com/) and [Spectre](https://spectreattack.com/), but let us try to discuss what it really means in practice and also how it could potentially affect secure domains like [TrustZone](https://www.arm.com/products/security-on-arm/trustzone). The basis of the Meltdown and Spectre attacks is to make use of speculative execution, out-of-order execution, branch predictors and caches, all features found in modern CPUs. These features all aim to increase performance and to avoid latencies in the pipeline. They work in conjunction with each other in quite complex ways. Let us go over them one by one to get a better understanding of the essence of Meltdown and Spectre.
 </div>
 <div class="col-sm-6" markdown="1">
-{% include media.html media_url="https://youtu.be/rGwgOOSwXBY" %}
+{% include components/media.html media_url="https://youtu.be/rGwgOOSwXBY" %}
 </div>
 
 <div class="col-md-12"><hr></div>
