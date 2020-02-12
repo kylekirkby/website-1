@@ -9,7 +9,8 @@ css-package: landing-page
 js-package: engineering-landing-page
 members:
     key: mi-incubator
-related_resources_tracks: AI/Machine Learning, Machine Learning/AI, AI and Neural Networks on Arm Summit
+related_resources_tracks: AI/Machine Learning
+# related_resources_tracks: AI/Machine Learning, Machine Learning/AI, AI and Neural Networks on Arm Summit
 related_tags:
   - Automotive
   - ML

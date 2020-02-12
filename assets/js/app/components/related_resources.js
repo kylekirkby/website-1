@@ -67,6 +67,7 @@ $(document).ready(function() {
     } else {
       required_tracks = [required_tracks];
     }
+    console.log(required_tracks);
     // Fetch relevant Connect resources
     $.getJSON("https://connect.linaro.org/assets/json/connects.json", function(
       data
@@ -98,6 +99,8 @@ $(document).ready(function() {
                       item_event: "Linaro Connect " + event,
                       item_date_published: specific_resource.date_published
                     };
+                    console.log(item);
+
                     if (
                       specific_resource.hasOwnProperty(
                         "amazon_s3_presentation_url"
@@ -122,6 +125,8 @@ $(document).ready(function() {
 });
 // Display resources once the ajaxStop event is fired
 $(document).ajaxStop(function() {
+  console.log("AJAX stopped - populating html...");
+  console.log(items);
   var page_elements = createPageElements(items);
   $("#related_resources").html(page_elements);
 });
